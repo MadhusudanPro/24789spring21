@@ -1,5 +1,5 @@
 ---
-type: Project
+type: raw_event
 date: 2021-5-18T8:00:00-5:00
 description: 'Final Project Reports'
 hide_from_announcments: true

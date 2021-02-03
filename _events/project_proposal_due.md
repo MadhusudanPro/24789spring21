@@ -1,5 +1,5 @@
 ---
-type: Project
+type: raw_event
 date: 2021-2-28T8:00:00-5:00
 description: 'Project Proposal Deadline'
 hide_from_announcments: true

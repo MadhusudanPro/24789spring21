@@ -1,5 +1,5 @@
 ---
-type: Project
+type: raw_event
 date: 2021-4-20T8:00:00-5:00
 description: 'Project Milestone 2'
 hide_from_announcments: true

@@ -22,7 +22,7 @@ layout: home
 
 ## Office Hours: 
 - Dr. Amir Barati Farimani: Tuesdays, 1:00pm ‐ 2:00pm
-- Yuyang Wang: Wednesday, 4:30pm - 5:30pm
+- Yuyang Wang: Wednesday, 5:30pm - 6:30pm
 - Lalit Ghule: Wednesday, 11:00am - 12:00pm 
 - Ruchit Doshi: Thursday, 10:00pm - 11:00pm
 - Yihe Hua: Monday, 2:00pm - 3:00pm
